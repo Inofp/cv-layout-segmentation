@@ -1,0 +1,18 @@
+{
+  "labels": [
+    "background",
+    "header",
+    "experience",
+    "education",
+    "skills",
+    "contacts"
+  ],
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 1.1509231344858806,
+      "acc": 0.5343824036506292,
+      "miou": 0.06030636203234309
+    }
+  ]
+}

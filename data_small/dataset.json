@@ -1,0 +1,16 @@
+{
+  "w": 512,
+  "h": 768,
+  "labels": [
+    "background",
+    "header",
+    "experience",
+    "education",
+    "skills",
+    "contacts"
+  ],
+  "n_train": 1350,
+  "n_val": 150,
+  "val_ratio": 0.1,
+  "seed": 1
+}

@@ -9,10 +9,8 @@ __pycache__/
 .vscode/
 
 data/*
+data_small
 !data/.gitkeep
-
-runs/*
-!runs/.gitkeep
 
 out/*
 !out/.gitkeep

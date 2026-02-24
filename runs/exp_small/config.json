@@ -1,0 +1,11 @@
+{
+  "data_dir": "data_small",
+  "out_dir": "runs\\exp_small",
+  "epochs": 5,
+  "batch": 8,
+  "lr": 0.0003,
+  "num_workers": 0,
+  "device": "cpu",
+  "in_ch": 1,
+  "base": 16
+}
